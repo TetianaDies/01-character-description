@@ -3,7 +3,7 @@
 
 The process of creating the letter 0
 
-<img src="/img/Process_Tetiana_Denysova.png" width="1600">
+<img src="/img/Process_Tetiana_Denysova.jpg" width="1600">
 
 
 
